@@ -1,0 +1,10 @@
+- si rappresenta l'azienda quando si pubblica o si commenta qualsiasi cosa
+- aggiornare foto una volta all'anno
+- aggiornare le competenze
+- sulle informazioni descrivere la nostra persona (chi sono, cosa faccio, dove lo faccio, come lo faccio..) . concludere con call to action al sito maddalena.
+- massimo 5 hashtag #maddalenaspa #meteringexpertise #watermetering
+- pubblicare commenti
+- diffondi post (senza tue idee)
+- orario consigliato: martedì, mercoledì, giovedì. prima di entrare, pausa pranzo, dopo lavoro
+- link nel primo commento e non nel testo
+- 
