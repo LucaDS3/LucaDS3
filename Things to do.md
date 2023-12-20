@@ -34,3 +34,8 @@ Calorimetro Mech
 
 DS TRP da DN15 a DN32
 
+# cose urgenti
+
+- scheda tecnica WT: aggiornare mid, scrivere U10-D5
+- scheda sonic: aggiornare gli R max nella tabella
+- 
