@@ -1,4 +1,4 @@
-> [!Note]-  Questa è il titolo di una nota
+> [!Help]+  Questa è il titolo di una nota
 > questo è il testo di una nota
 
 > [!error]
