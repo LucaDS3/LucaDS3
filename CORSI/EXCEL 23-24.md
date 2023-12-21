@@ -150,3 +150,5 @@ formattazione condizionale
 funzione [RANGO.UG](http://RANGO.UG) - permette di identificare una classifica in base ai numeri, dando un riferimento al numero più alto
 
 ![[Pasted image 20231214085239.png]]
+
+
